@@ -7,8 +7,6 @@ Project Initial Design -> [View Intial Design](https://whimsical.com/food-8PBqBt
 
 <h1 align="center">Kickstart your Open-Source Journey</h1>
 
-
-# Placement Coding Questions
 ### This repository is all about Your First Contribution.
 ---
 ## Rules To Contribute To This Repo
