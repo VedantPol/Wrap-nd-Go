@@ -6,7 +6,7 @@ function Page()
       
       
 <div class="header">
-  <h1>Chania</h1>
+  <h1>Wrap & Go</h1>
 </div>
 
 <div class="row">
