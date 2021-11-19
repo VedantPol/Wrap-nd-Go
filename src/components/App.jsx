@@ -1,10 +1,11 @@
 import React from "react";
-
+import Page from "./Page";
   function App()
   {
   return (
     // jumbotron
     <div className="App">
+<<<<<<< HEAD
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -41,7 +42,14 @@ import React from "react";
     </div>
   </div>
 </nav>
+=======
+      
+      <Page /> 
+>>>>>>> d891bd7874efc7db85f7e55a0f8081d25cb5bf91
     </div>
+    
+
+    
   );
 }
 
