@@ -27,7 +27,7 @@ Project Initial Design -> [View Intial Design](https://whimsical.com/food-8PBqBt
     1. Fork this repo
     2. Star this repo
     3. Get an issue assigned.
-    3. Work on the issssue, add a file .
+    3. Work on the issue, add a file .
     4. Commit the code
     5. Make pull request
 
