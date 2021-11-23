@@ -37,9 +37,9 @@ Project Initial Design -> [View Intial Design](https://whimsical.com/food-8PBqBt
 Fork the project on Github by clicking on the word "Fork" above and to the right of this page. This will create your own fork at https://github.com/yournamehere/Wrap-nd-Go.git. Then clone your fork to your local repository on your machine and set up a [triangle workflow](https://github.com/forwards/first-contributions/blob/master/additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md) using these commands:
 
 ```
-git clone https://github.com/yournamehere/oshi.git
+git clone https://github.com/yournamehere/Wrap-nd-Go.git
 cd oshi
-git remote add upstream https://github.com/oshi/oshi.git
+git remote add upstream https://github.com/Wrap-and-Go/Wrap-nd-Go.git.git
 ```
 
 #### Create a Branch for your feature
@@ -94,7 +94,7 @@ git push origin my-feature-branch
 
 #### Make a Pull Request
 
-Go to https://github.com/yournamehere/oshi and select your feature branch. Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
+Go to https://github.com/yournamehere/Wrap-nd-G0 and select your feature branch. Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 If code review requests changes (and it usually will) just `git push` the changes to your repository on the same branch, and the pull request will be automatically updated.
 
